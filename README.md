@@ -1,4 +1,9 @@
-#  Learning Resource Path - (Front-End Development)
+<div align="center">
+   <h1>Learning Resource Path - (Front-End Development)</h1>
+	<p>✨ <b>This repo serves as a resource for developers to leverage on their Journey into Front End Development.</b>✨</p>
+</div>
+<br>
+<br>
 
 ##  Beginner Level Front End Development
 
