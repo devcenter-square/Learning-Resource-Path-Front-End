@@ -2,15 +2,12 @@
 
 ##  Beginner Level Front End Development
 
+ - [freeCodeCamp](https://learn.freecodecamp.org/)
+ - [Codeacademy](https://www.codecademy.com/)
+ 
 ### HTML
 
- - [freeCodeCamp](https://learn.freecodecamp.org/)
- - [Codeacademy](https://www.codecademy.com/)
-
 ### CSS
-
- - [freeCodeCamp](https://learn.freecodecamp.org/)
- - [Codeacademy](https://www.codecademy.com/)
 
 ### JavaScript
  - [JavaScript.info](https://javascript.info/)
