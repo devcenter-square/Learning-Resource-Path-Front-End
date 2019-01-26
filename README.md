@@ -59,8 +59,13 @@ Resource types:
 
 ##  Mid Level Front End Development
 
-- [What is a CSS Preprocessor? - MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor)📝
-- [CSS Preprocessors by Shay Howe](https://learn.shayhowe.com/advanced-html-css/preprocessors/)📝
-- [What is Responsive Web Design? - W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp)📝
-- [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)📝
+- [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝
+- [CSS3 Media Queries - TutorialRepublic](https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php) 📝
+- [Logic in Media Queries by Chris Coyier (CSS-TRICKS)](https://css-tricks.com/logic-in-media-queries/) 📝
+
+- [What is a CSS Preprocessor? - MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor) 📝
+- [CSS Preprocessors by Shay Howe](https://learn.shayhowe.com/advanced-html-css/preprocessors/) 📝
+- [An Introduction to CSS Pre-Processors: SASS, LESS and Stylus](https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus) 📝
+- [What is Responsive Web Design? - W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp) 📝
+- [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/) 📝
 <!-- ##  Advanced Level Front End Development -->
