@@ -14,7 +14,7 @@ Resource types:
  🎮 - Interactive
  📚 - Book
  📹 - Video
- 📝 - Read
+ 📝 - Reading
 
 ##  Beginner Level Front End Development
 
@@ -27,6 +27,7 @@ Resource types:
  - [Marksheet.io](https://marksheet.io/html-basics.html) 📝
  - [W3Schools HTML Guide](https://www.w3schools.com/html/) 📝
  - [HTML.com](https://html.com/) 📝
+  - [HTML Dog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝
 
 ### CSS
 
@@ -41,6 +42,7 @@ Resource types:
 - [W3Schools CSS Guide](https://www.w3schools.com/css/css_intro.asp) 📝
 - [CSS Tutorial](https://www.csstutorial.net/css-intro/introductioncss-part1.php) 📝
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝
+ - [HTML Dog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
 
 
 ### JavaScript
@@ -52,6 +54,7 @@ Resource types:
  - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 📝
  - [Array Explorer](https://sdras.github.io/array-explorer/) 🎮
  - [Object Explorer](https://sdras.github.io/object-explorer/) 🎮
+ - [HTML Dog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝
 
 
 <!-- ##  Mid Level Front End Development -->
