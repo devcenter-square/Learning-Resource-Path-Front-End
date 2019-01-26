@@ -10,6 +10,10 @@
 
 This is a visual roadmap for beginners venturing into the World of Software Development. In order not to feel overwhelmed by how much you need to know to be a Front End Developer. This roadmap serves as a guide through out your journey. You can follow through this guide and be assured you are on the right path.
 
+ 🎮 - Interactive
+ 📹 - Video
+ 📝 - Reading
+
 ##  Beginner Level Front End Development
 
 ### HTML
@@ -27,6 +31,7 @@ This is a visual roadmap for beginners venturing into the World of Software Deve
 - [Learn CSS from CodeCademy ](https://www.codecademy.com/learn/learn-css)
 - [MDN CSS Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS)
  - [W3Schools CSS](https://www.udacity.com/courses/web-development)
+
 ### JavaScript
  - [JavaScript.info](https://javascript.info/) 📝
  - [Eloquent JavaScript](https://eloquentjavascript.net/) 📚
