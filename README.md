@@ -10,6 +10,12 @@
 
 This is a visual roadmap for beginners venturing into the World of Software Development. In order not to feel overwhelmed by how much you need to know to be a Front End Developer. This roadmap serves as a guide through out your journey. You can follow through this guide and be assured you are on the right path.
 
+Resource types: 
+ 🎮 - Interactive
+ 📚 - Book
+ 📹 - Video
+ 📝 - Reading
+
 ##  Beginner Level Front End Development
 
 ### HTML
@@ -21,6 +27,7 @@ This is a visual roadmap for beginners venturing into the World of Software Deve
  - [Marksheet.io](https://marksheet.io/html-basics.html) 📝
  - [W3Schools HTML Guide](https://www.w3schools.com/html/) 📝
  - [HTML.com](https://html.com/) 📝
+  - [HTML Dog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝
 
 ### CSS
 
@@ -35,6 +42,7 @@ This is a visual roadmap for beginners venturing into the World of Software Deve
 - [W3Schools CSS Guide](https://www.w3schools.com/css/css_intro.asp) 📝
 - [CSS Tutorial](https://www.csstutorial.net/css-intro/introductioncss-part1.php) 📝
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝
+ - [HTML Dog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
 
 
 ### JavaScript
@@ -46,8 +54,13 @@ This is a visual roadmap for beginners venturing into the World of Software Deve
  - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 📝
  - [Array Explorer](https://sdras.github.io/array-explorer/) 🎮
  - [Object Explorer](https://sdras.github.io/object-explorer/) 🎮
+ - [HTML Dog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝
 
 
-<!-- ##  Mid Level Front End Development -->
+##  Mid Level Front End Development
 
+- [What is a CSS Preprocessor? - MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor)📝
+- [CSS Preprocessors by Shay Howe](https://learn.shayhowe.com/advanced-html-css/preprocessors/)📝
+- [What is Responsive Web Design? - W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp)📝
+- [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)📝
 <!-- ##  Advanced Level Front End Development -->
