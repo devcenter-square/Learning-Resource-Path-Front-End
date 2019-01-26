@@ -57,6 +57,10 @@ Resource types:
  - [HTML Dog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝
 
 
-<!-- ##  Mid Level Front End Development -->
+##  Mid Level Front End Development
 
+- [What is a CSS Preprocessor? - MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor)📝
+- [CSS Preprocessors by Shay Howe](https://learn.shayhowe.com/advanced-html-css/preprocessors/)📝
+- [What is Responsive Web Design? - W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp)📝
+- [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)📝
 <!-- ##  Advanced Level Front End Development -->
