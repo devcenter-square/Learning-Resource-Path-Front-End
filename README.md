@@ -19,7 +19,7 @@ Resource types:
 ##  Beginner Level Front End Development
 
 ### HTML
- - [Codeacademy](https://www.codecademy.com/learn/learn-html) 🎮
+ - [Codecademy](https://www.codecademy.com/learn/learn-html) 🎮
  - [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) 📹
  - [HTML Best Practices](https://github.com/hail2u/html-best-practices) 📝
  - [HTML Reference Guide](https://htmlreference.io/) 📝
@@ -27,7 +27,7 @@ Resource types:
  - [Marksheet.io](https://marksheet.io/html-basics.html) 📝
  - [W3Schools HTML Guide](https://www.w3schools.com/html/) 📝
  - [HTML.com](https://html.com/) 📝
-  - [HTML Dog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝
+ - [HTML Dog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝
 
 ### CSS
 
@@ -42,7 +42,7 @@ Resource types:
 - [W3Schools CSS Guide](https://www.w3schools.com/css/css_intro.asp) 📝
 - [CSS Tutorial](https://www.csstutorial.net/css-intro/introductioncss-part1.php) 📝
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝
- - [HTML Dog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
+- [HTML Dog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
 
 
 ### JavaScript
@@ -62,10 +62,16 @@ Resource types:
 - [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝
 - [CSS3 Media Queries - TutorialRepublic](https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php) 📝
 - [Logic in Media Queries by Chris Coyier (CSS-TRICKS)](https://css-tricks.com/logic-in-media-queries/) 📝
-
+- [CSS Flexbox - W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) 🎮
+- [CSS Flexbox Tutorial - mmtuts](https://www.youtube.com/watch?v=0e02dl66PYo) 📹
 - [What is a CSS Preprocessor? - MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor) 📝
 - [CSS Preprocessors by Shay Howe](https://learn.shayhowe.com/advanced-html-css/preprocessors/) 📝
 - [An Introduction to CSS Pre-Processors: SASS, LESS and Stylus](https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus) 📝
 - [What is Responsive Web Design? - W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp) 📝
 - [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/) 📝
+- [Responsive Web Design Tutorial and Explanation](https://youtu.be/BIz02qY5BRA) 📹
+- [Responsive Web Design Principles - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) 🎮
+
+
+
 <!-- ##  Advanced Level Front End Development -->
