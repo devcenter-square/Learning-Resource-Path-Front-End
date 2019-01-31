@@ -27,7 +27,7 @@ Resource types:
  - [Marksheet.io](https://marksheet.io/html-basics.html) 📝
  - [W3Schools HTML Guide](https://www.w3schools.com/html/) 📝
  - [HTML.com](https://html.com/) 📝
- - [HTML Dog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝
+ - [HTMLDog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝
 
 ### CSS
 
@@ -42,21 +42,20 @@ Resource types:
 - [W3Schools CSS Guide](https://www.w3schools.com/css/css_intro.asp) 📝
 - [CSS Tutorial](https://www.csstutorial.net/css-intro/introductioncss-part1.php) 📝
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝
-- [HTML Dog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
+- [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
 
 ### Web Fonts
 
-- [Quick to web fonts via @font-face](https://www.html5rocks.com/en/tutorials/webfonts/quick/)
-- [A beginner's Guide to Choosing Web Fonts - Google](https://design.google/library/choosing-web-fonts-beginners-guide/)
-- [Understanding Web Fonts and Getting the Most Out of Them - CSSTricks](https://css-tricks.com/understanding-web-fonts-getting/)
-- [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)
+- [Quick to web fonts via @font-face](https://www.html5rocks.com/en/tutorials/webfonts/quick/)📝
+- [A beginner's Guide to Choosing Web Fonts - Google](https://design.google/library/choosing-web-fonts-beginners-guide/)📝
+- [Understanding Web Fonts and Getting the Most Out of Them - CSS-Tricks](https://css-tricks.com/understanding-web-fonts-getting/)📝
+- [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)📝
 
 ### Web Accessibility
 
 - [Web Accessibility - The Four Principles (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG#The_four_principles) 📝
 - [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝
 - [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹
-
 
 ### JavaScript
  - [JavaScript.info](https://javascript.info/) 📝
@@ -67,25 +66,34 @@ Resource types:
  - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 📝
  - [Array Explorer](https://sdras.github.io/array-explorer/) 🎮
  - [Object Explorer](https://sdras.github.io/object-explorer/) 🎮
- - [HTML Dog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝
+ - [HTMLDog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝
 
 
 ##  Mid Level Front End Development
 
-- [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝
-- [CSS3 Media Queries - TutorialRepublic](https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php) 📝
-- [Logic in Media Queries by Chris Coyier (CSS-TRICKS)](https://css-tricks.com/logic-in-media-queries/) 📝
+- [A Beginner’s Guide to CSS Grid by Kara Luton - freeCodeCamp](https://medium.freecodecamp.org/a-beginners-guide-to-css-grid-3889612c4b35) 📝
+- [CSS Grid Layout — Simple Guide by Sergey Gavelyuk](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8) 📝
+- [Learn CSS Grid by Per Harald Borgen - Scrimba](https://scrimba.com/g/gR8PTE)🎮
+
 - [CSS Flexbox - W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) 🎮
 - [CSS Flexbox Tutorial - mmtuts](https://www.youtube.com/watch?v=0e02dl66PYo) 📹
+
+- [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝
+- [CSS3 Media Queries - TutorialRepublic](https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php) 📝
+- [Logic in Media Queries by Chris Coyier - CSS-Tricks)](https://css-tricks.com/logic-in-media-queries/) 📝
+
 - [What is a CSS Preprocessor? - MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor) 📝
 - [CSS Preprocessors by Shay Howe](https://learn.shayhowe.com/advanced-html-css/preprocessors/) 📝
 - [An Introduction to CSS Pre-Processors: SASS, LESS and Stylus](https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus) 📝
+
 - [What is Responsive Web Design? - W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp) 📝
 - [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/) 📝
 - [Responsive Web Design Tutorial and Explanation](https://youtu.be/BIz02qY5BRA) 📹
-- [Responsive Web Design Principles - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) 🎮
+- [Responsive Web Design Principles - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) 🎮
+- [Responsive Web Design Fundamentals - Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) 📹
 
-
-
+- [A Brief Introduction to Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+- [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+- [Debugging in Chrome](https://javascript.info/debugging-chrome)
 
 <!-- ##  Advanced Level Front End Development -->
