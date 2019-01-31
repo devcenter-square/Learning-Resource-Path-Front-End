@@ -44,6 +44,19 @@ Resource types:
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝
 - [HTML Dog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
 
+### Web Fonts
+
+- [Quick to web fonts via @font-face](https://www.html5rocks.com/en/tutorials/webfonts/quick/)
+- [A beginner's Guide to Choosing Web Fonts - Google](https://design.google/library/choosing-web-fonts-beginners-guide/)
+- [Understanding Web Fonts and Getting the Most Out of Them - CSSTricks](https://css-tricks.com/understanding-web-fonts-getting/)
+- [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)
+
+### Web Accessibility
+
+- [Web Accessibility - The Four Principles (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG#The_four_principles) 📝
+- [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝
+- [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹
+
 
 ### JavaScript
  - [JavaScript.info](https://javascript.info/) 📝
@@ -71,6 +84,7 @@ Resource types:
 - [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/) 📝
 - [Responsive Web Design Tutorial and Explanation](https://youtu.be/BIz02qY5BRA) 📹
 - [Responsive Web Design Principles - FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) 🎮
+
 
 
 
