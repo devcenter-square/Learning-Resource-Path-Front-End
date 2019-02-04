@@ -10,7 +10,7 @@
 
 This is a visual roadmap for beginners venturing into the World of Software Development. In order not to feel overwhelmed by how much you need to know to be a Front End Developer. This roadmap serves as a guide through out your journey. You can follow through this guide and be assured you are on the right path.
 
-Resource types:   
+Resource types:
  🎮 - Interactive  
  📚 - Book  
  📹 - Video  
@@ -44,19 +44,6 @@ Resource types:
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
 
-### Web Fonts
-
-- [Quick to web fonts via @font-face](https://www.html5rocks.com/en/tutorials/webfonts/quick/)📝
-- [A beginner's Guide to Choosing Web Fonts - Google](https://design.google/library/choosing-web-fonts-beginners-guide/)📝
-- [Understanding Web Fonts and Getting the Most Out of Them - CSS-Tricks](https://css-tricks.com/understanding-web-fonts-getting/)📝
-- [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)📝
-
-### Web Accessibility
-
-- [Web Accessibility - The Four Principles (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG#The_four_principles) 📝
-- [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝
-- [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹
-
 ### JavaScript
  - [JavaScript.info](https://javascript.info/) 📝
  - [Eloquent JavaScript](https://eloquentjavascript.net/) 📚
@@ -70,6 +57,8 @@ Resource types:
 
 
 ##  Mid Level Front End Development
+
+### CSS
 
 - [A Beginner’s Guide to CSS Grid by Kara Luton - freeCodeCamp](https://medium.freecodecamp.org/a-beginners-guide-to-css-grid-3889612c4b35) 📝
 - [CSS Grid Layout — Simple Guide by Sergey Gavelyuk](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8) 📝
@@ -91,9 +80,30 @@ Resource types:
 - [Responsive Web Design Tutorial and Explanation](https://youtu.be/BIz02qY5BRA) 📹
 - [Responsive Web Design Principles - freeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles) 🎮
 - [Responsive Web Design Fundamentals - Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) 📹
+- [FlexBox Froggy](https://flexboxfroggy.com/) 🎮
+- [Grid Garden](https://cssgridgarden.com/) 🎮
 
-- [A Brief Introduction to Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/)
+### JavaScript
+
+
+### Developer Tools
+
+- [A Brief Introduction to Chrome Dev Tools](https://developers.google.com/web/tools/chrome-devtools/) 📝
 - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-- [Debugging in Chrome](https://javascript.info/debugging-chrome)
+- [Debugging in Chrome](https://javascript.info/debugging-chrome) 📝
+
+### Web Fonts
+
+- [Quick to web fonts via @font-face](https://www.html5rocks.com/en/tutorials/webfonts/quick/)📝
+- [A beginner's Guide to Choosing Web Fonts - Google](https://design.google/library/choosing-web-fonts-beginners-guide/)📝
+- [Understanding Web Fonts and Getting the Most Out of Them - CSS-Tricks](https://css-tricks.com/understanding-web-fonts-getting/)📝
+- [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)📝
+
+### Web Accessibility
+
+- [Web Accessibility - The Four Principles (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG#The_four_principles) 📝
+- [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝
+- [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹
+
 
 <!-- ##  Advanced Level Front End Development -->
