@@ -10,7 +10,7 @@
 
 This is a visual roadmap for beginners venturing into the World of Software Development. In order not to feel overwhelmed by how much you need to know to be a Front End Developer. This roadmap serves as a guide through out your journey. You can follow through this guide and be assured you are on the right path.
 
-Resource types:
+Resource types:  
  🎮 - Interactive  
  📚 - Book  
  📹 - Video  
@@ -43,6 +43,7 @@ Resource types:
 - [CSS Tutorial](https://www.csstutorial.net/css-intro/introductioncss-part1.php) 📝
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝
+- [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties)
 
 ### JavaScript
  - [JavaScript.info](https://javascript.info/) 📝
@@ -54,7 +55,7 @@ Resource types:
  - [Array Explorer](https://sdras.github.io/array-explorer/) 🎮
  - [Object Explorer](https://sdras.github.io/object-explorer/) 🎮
  - [HTMLDog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝
-
+ - [JavaScript for Beginners - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 📹
 
 ##  Mid Level Front End Development
 
@@ -63,18 +64,14 @@ Resource types:
 - [A Beginner’s Guide to CSS Grid by Kara Luton - freeCodeCamp](https://medium.freecodecamp.org/a-beginners-guide-to-css-grid-3889612c4b35) 📝
 - [CSS Grid Layout — Simple Guide by Sergey Gavelyuk](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8) 📝
 - [Learn CSS Grid by Per Harald Borgen - Scrimba](https://scrimba.com/g/gR8PTE)🎮
-
 - [CSS Flexbox - W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) 🎮
 - [CSS Flexbox Tutorial - mmtuts](https://www.youtube.com/watch?v=0e02dl66PYo) 📹
-
 - [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝
 - [CSS3 Media Queries - TutorialRepublic](https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php) 📝
-- [Logic in Media Queries by Chris Coyier - CSS-Tricks)](https://css-tricks.com/logic-in-media-queries/) 📝
-
+- [Logic in Media Queries by Chris Coyier - CSS-Tricks](https://css-tricks.com/logic-in-media-queries/) 📝
 - [What is a CSS Preprocessor? - MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS_preprocessor) 📝
 - [CSS Preprocessors by Shay Howe](https://learn.shayhowe.com/advanced-html-css/preprocessors/) 📝
 - [An Introduction to CSS Pre-Processors: SASS, LESS and Stylus](https://htmlmag.com/article/an-introduction-to-css-preprocessors-sass-less-stylus) 📝
-
 - [What is Responsive Web Design? - W3Schools](https://www.w3schools.com/css/css_rwd_intro.asp) 📝
 - [Responsive Web Design by Shay Howe](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/) 📝
 - [Responsive Web Design Tutorial and Explanation](https://youtu.be/BIz02qY5BRA) 📹
@@ -82,8 +79,41 @@ Resource types:
 - [Responsive Web Design Fundamentals - Udacity](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) 📹
 - [FlexBox Froggy](https://flexboxfroggy.com/) 🎮
 - [Grid Garden](https://cssgridgarden.com/) 🎮
+- [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) 📝
+- [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACS)](https://snipcart.com/blog/organize-css-modular-architecture) 📝
 
 ### JavaScript
+
+- [10 Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/) 📝
+- [Exploring ES6](http://exploringjs.com/es6.html) 📚
+- [Robust JavaScript](https://molily.de/robust-javascript/) 📚
+- [You Don't Know JS - Types and Grammer](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) 📚
+- [You Don't Know JS - Scope and Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) 📚
+- [You Don't Know JS - es6 and beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) 📚
+- [The beginning of an adventure: 13 Weeks of JavaScript ](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533)
+- [JavaScript: Template Literals & Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)📝
+- [JavaScript & The spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)📝
+
+### React
+
+- [Official React Documentation](https://facebook.github.io/react/docs/hello-world.html) 📝
+- [React Resources](https://reactresources.com/) 📝
+- [React 101 - Codecademy](https://www.codecademy.com/learn/react-101) 🎮
+- [The Beginner Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) 📹
+- [React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) 📹
+- [Road to Learn React](https://www.robinwieruch.de/the-road-to-learn-react/) 📚
+
+
+<!-- ### Vue -->
+
+
+
+<!-- ### Angular -->
+<!-- - [Angular 2 Tutorial](https://egghead.io/technologies/angular2) -->
+
+<!-- ### Testing  -->
+
+<!-- ### Web Animations -->
 
 
 ### Developer Tools
@@ -104,6 +134,11 @@ Resource types:
 - [Web Accessibility - The Four Principles (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG#The_four_principles) 📝
 - [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝
 - [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹
+- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)📝
 
 
-<!-- ##  Advanced Level Front End Development -->
+##  Advanced Level Front End Development
+
+### Web Security
+
+- [The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html) 📝
