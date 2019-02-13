@@ -113,12 +113,12 @@ Resource types:
 <!-- - [Angular 2 Tutorial](https://egghead.io/technologies/angular2) -->
 
 - [Angular - An Overview)](https://medium.com/@mlbors/an-overview-of-angular-3ccd2950648e) 📝
-- [Angular - Official Home Page)](https://angular.io/) 📝
+- [Angular - Official Home Page](https://angular.io/) 📝
 - [Angular: Getting Started (Deborah Kurata - Pluralsight)](https://www.pluralsight.com/courses/angular-2-getting-started-update) 📹
 - [Angular CLI (John Papa - Pluralsight)](https://www.pluralsight.com/courses/angular-cli) 📹
-- [Build your first Angular app - (Dan Wahlin - Scrimba)](https://scrimba.com/g/gyourfirstangularapp) 📹🎮
+- [Build your first Angular app (Dan Wahlin - Scrimba)](https://scrimba.com/g/gyourfirstangularapp) 📹🎮
 - [Angular - The Complete Guide (Maximilian Schwarzmüller - Udemy)](https://www.udemy.com/the-complete-guide-to-angular-2/) 📹
-- [Using Animations with Angular)](https://medium.freecodecamp.org/how-to-use-animation-with-angular-6-675b19bc3496) 📝
+- [Using Animations with Angular](https://medium.freecodecamp.org/how-to-use-animation-with-angular-6-675b19bc3496) 📝
 
 <!-- ### Testing  -->
 
