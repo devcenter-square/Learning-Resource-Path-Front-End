@@ -94,6 +94,7 @@ Resource types:
 - [JavaScript: Template Literals & Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)📝
 - [JavaScript & The spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)📝
 - [Libraries vs Frameworks](https://medium.com/datafire-io/libraries-vs-frameworks-626cdde799a7)📝
+- [Single-Page Applications (and how they work)](https://blog.pshrmn.com/entry/how-single-page-applications-work/)📝
 
 ### React
 
