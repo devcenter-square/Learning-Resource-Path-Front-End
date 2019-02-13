@@ -63,7 +63,7 @@ Resource types:
 
 - [A Beginner’s Guide to CSS Grid by Kara Luton - freeCodeCamp](https://medium.freecodecamp.org/a-beginners-guide-to-css-grid-3889612c4b35) 📝
 - [CSS Grid Layout — Simple Guide by Sergey Gavelyuk](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8) 📝
-- [Learn CSS Grid by Per Harald Borgen - Scrimba](https://scrimba.com/g/gR8PTE)🎮
+- [Learn CSS Grid by Per Harald Borgen - Scrimba](https://scrimba.com/g/gR8PTE)📹🎮
 - [CSS Flexbox - W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) 🎮
 - [CSS Flexbox Tutorial - mmtuts](https://www.youtube.com/watch?v=0e02dl66PYo) 📹
 - [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝
@@ -93,6 +93,8 @@ Resource types:
 - [The beginning of an adventure: 13 Weeks of JavaScript ](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533)
 - [JavaScript: Template Literals & Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1)📝
 - [JavaScript & The spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)📝
+- [Libraries vs Frameworks](https://medium.com/datafire-io/libraries-vs-frameworks-626cdde799a7)📝
+- [Single-Page Applications (and how they work)](https://blog.pshrmn.com/entry/how-single-page-applications-work/)📝
 
 ### React
 
@@ -108,8 +110,16 @@ Resource types:
 
 
 
-<!-- ### Angular -->
+### Angular
 <!-- - [Angular 2 Tutorial](https://egghead.io/technologies/angular2) -->
+
+- [Angular - An Overview](https://medium.com/@mlbors/an-overview-of-angular-3ccd2950648e) 📝
+- [Angular - Official Home Page](https://angular.io/) 📝
+- [Angular: Getting Started (Deborah Kurata - Pluralsight)](https://www.pluralsight.com/courses/angular-2-getting-started-update) 📹
+- [Angular CLI (John Papa - Pluralsight)](https://www.pluralsight.com/courses/angular-cli) 📹
+- [Build your first Angular app (Dan Wahlin - Scrimba)](https://scrimba.com/g/gyourfirstangularapp) 📹🎮
+- [Angular - The Complete Guide (Maximilian Schwarzmüller - Udemy)](https://www.udemy.com/the-complete-guide-to-angular-2/) 📹
+- [Using Animations with Angular](https://medium.freecodecamp.org/how-to-use-animation-with-angular-6-675b19bc3496) 📝
 
 <!-- ### Testing  -->
 
