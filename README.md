@@ -15,6 +15,8 @@ Resource types:
  📚 - Book  
  📹 - Video  
  📝 - Reading  
+ 🎤 - Podcast  
+ 👩‍💻 - Community  
 
 ##  Beginner Level Front End Development
 
@@ -57,6 +59,8 @@ Resource types:
  - [HTMLDog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝
  - [JavaScript for Beginners - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 📹
 
+<!-- ### GIT -->
+
 ##  Mid Level Front End Development
 
 ### CSS
@@ -81,6 +85,7 @@ Resource types:
 - [Grid Garden](https://cssgridgarden.com/) 🎮
 - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) 📝
 - [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACS)](https://snipcart.com/blog/organize-css-modular-architecture) 📝
+- [Understanding CSS Selectors](https://medium.com/backticks-tildes/understanding-css-selectors-26fe2ea19132) 📝
 
 ### JavaScript
 
@@ -104,15 +109,21 @@ Resource types:
 - [The Beginner Guide to ReactJS](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) 📹
 - [React Bootcamp](https://tylermcginnis.com/free-react-bootcamp/) 📹
 - [Road to Learn React](https://www.robinwieruch.de/the-road-to-learn-react/) 📚
+- [React Quickly](https://www.manning.com/books/react-quickly) 📚
+- [React Podcast](https://changelog.com/reactpodcast) 🎤
+- [React for Beginners](https://reactforbeginners.com/) 📹
+- [Leigh Halliday Blog](https://www.leighhalliday.com/) 📝
 
+### Vue
 
-<!-- ### Vue -->
-
-
+- [Vue Official Documentation](https://vuejs.org/v2/guide/) 📝
+- [Vue Cookbook](https://vuejs.org/v2/cookbook/) 📝
+- [Vue Mastery](https://www.vuemastery.com/) 📹
+- [Awesome Vue](https://github.com/vuejs/awesome-vue) 📝
+- [Egghead Vue Courses](https://egghead.io/browse/frameworks/vue) 📹
 
 ### Angular
-<!-- - [Angular 2 Tutorial](https://egghead.io/technologies/angular2) -->
-
+- [Angular 2 Tutorial](https://egghead.io/technologies/angular2)
 - [Angular - An Overview](https://medium.com/@mlbors/an-overview-of-angular-3ccd2950648e) 📝
 - [Angular - Official Home Page](https://angular.io/) 📝
 - [Angular: Getting Started (Deborah Kurata - Pluralsight)](https://www.pluralsight.com/courses/angular-2-getting-started-update) 📹
@@ -121,10 +132,12 @@ Resource types:
 - [Angular - The Complete Guide (Maximilian Schwarzmüller - Udemy)](https://www.udemy.com/the-complete-guide-to-angular-2/) 📹
 - [Using Animations with Angular](https://medium.freecodecamp.org/how-to-use-animation-with-angular-6-675b19bc3496) 📝
 
-<!-- ### Testing  -->
+### Testing
+- [Testing JavaScript on Udacity](https://www.udacity.com/course/javascript-testing--ud549)
+- [Testing Clientside JavaScript](https://app.pluralsight.com/library/courses/testing-javascript/table-of-contents?aid=7010a000002LUv2AAG) 📹
+- [Testing with Jest: from zero to hero](https://blog.logrocket.com/testing-with-jest-from-zero-to-hero-85ce0e9cc953) 📝
 
 <!-- ### Web Animations -->
-
 
 ### Developer Tools
 
@@ -135,9 +148,9 @@ Resource types:
 ### Web Fonts
 
 - [Quick to web fonts via @font-face](https://www.html5rocks.com/en/tutorials/webfonts/quick/)📝
-- [A beginner's Guide to Choosing Web Fonts - Google](https://design.google/library/choosing-web-fonts-beginners-guide/)📝
-- [Understanding Web Fonts and Getting the Most Out of Them - CSS-Tricks](https://css-tricks.com/understanding-web-fonts-getting/)📝
-- [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started)📝
+- [A beginner's Guide to Choosing Web Fonts - Google](https://design.google/library/choosing-web-fonts-beginners-guide/) 📝
+- [Understanding Web Fonts and Getting the Most Out of Them - CSS-Tricks](https://css-tricks.com/understanding-web-fonts-getting/) 📝
+- [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started) 📝
 
 ### Web Accessibility
 
@@ -147,8 +160,22 @@ Resource types:
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)📝
 
 
+### UX Design
+- [Learn UX](https://learnux.io) 📝
+
 ##  Advanced Level Front End Development
 
 ### Web Security
 
 - [The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html) 📝
+- [Web Security Basics](https://www.beyondsecurity.com/blog/web-security-basics) 📝
+- [A Quick Introduction to Web Security](https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41) 📝
+
+### CSS
+- [A complete Guide to SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) 📝
+- [Quick! What’s the Difference Between Flexbox and Grid?](https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/) 📝
+
+<!-- ### Performance -->
+
+### Web Accessibility
+- [Getting Started: Intro to Accessibility Concepts & Tools](http://wps.pearsoned.com/accessibility/207/53073/13586831.cw/index.html) 📝
