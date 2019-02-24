@@ -136,8 +136,12 @@ Resource types:
 - [Testing JavaScript on Udacity](https://www.udacity.com/course/javascript-testing--ud549)
 - [Testing Clientside JavaScript](https://app.pluralsight.com/library/courses/testing-javascript/table-of-contents?aid=7010a000002LUv2AAG) 📹
 - [Testing with Jest: from zero to hero](https://blog.logrocket.com/testing-with-jest-from-zero-to-hero-85ce0e9cc953) 📝
+- [Learn Javascript Unit Testing With Mocha, Chai and Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) 📹
 
-<!-- ### Web Animations -->
+### Web Animations
+
+- [A Detailed Guide to CSS Animations and Transitions
+](https://medium.com/engineerbabu/a-detailed-guide-to-css-animations-and-transitions-b544502c089c?ref=devawesome)
 
 ### Developer Tools
 
@@ -157,11 +161,12 @@ Resource types:
 - [Web Accessibility - The Four Principles (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG#The_four_principles) 📝
 - [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝
 - [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹
-- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9)📝
+- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) 📝
+- [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) 📝
 
-
-### UX Design
+### UI/UX Design
 - [Learn UX](https://learnux.io) 📝
+- [Design for Non-Designers](https://www.youtube.com/watch?v=ZbrzdMaumNk&feature=youtu.be) 📹
 
 ##  Advanced Level Front End Development
 
@@ -170,12 +175,59 @@ Resource types:
 - [The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html) 📝
 - [Web Security Basics](https://www.beyondsecurity.com/blog/web-security-basics) 📝
 - [A Quick Introduction to Web Security](https://medium.freecodecamp.org/a-quick-introduction-to-web-security-f90beaf4dd41) 📝
+- [Web Security on FrontEndMasters](https://frontendmasters.com/courses/web-security/) 📹
+- [Browser Security Handbook](https://code.google.com/archive/p/browsersec/wikis/Main.wiki) 📝
+- [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) 📹
+- [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) 📝
 
 ### CSS
 - [A complete Guide to SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) 📝
 - [Quick! What’s the Difference Between Flexbox and Grid?](https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/) 📝
 
-<!-- ### Performance -->
+<!-- ### JavaScript -->
+<!-- ### Data Mangement (GraphQL, Rest) -->
+<!-- ### Serverless Architecture -->
+<!-- ### Computer Science  -->
+
+### State Management
+
+- [Advanced State Management in React (feat. Redux and MobX)](https://frontendmasters.com/courses/react-state/) 📹
+- [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux) 📹
+- [Manage Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree) 📹
+- [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) 📹
+- [React js tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) 📹
+
+### Web Typography
+
+- [Quick guide to webfonts via @font-face](https://www.html5rocks.com/en/tutorials/webfonts/quick/) 📝
+- [A COMPREHENSIVE GUIDE TO FONT LOADING STRATEGIES](https://www.zachleat.com/web/comprehensive-webfonts/) 📝
+- [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) 📝
+- [Responsive Typography](https://frontendmasters.com/courses/responsive-typography/) 📹
+
+### Responsive and Mobile Design
+- [Responsive Web Design Fundamentals](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) 📹
+- [CSS Grids and Flexbox for Responsive Web Design](https://frontendmasters.com/courses/css-grids-flexbox/) 📹
+- [Responsive Web Design Podcast](https://responsivewebdesign.com/podcast/) 🎤
+
+
+### Progressive Web App
+
+-  [Progressive Web App - Google](https://developers.google.com/web/progressive-web-apps/) 📝
+-  [Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) 📹
+-  [Progressive Web Applications and Offline](https://frontendmasters.com/courses/progressive-web-apps/) 📹
+-  [A Beginner's Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) 📝
+-  [MDN - Progressive Web App Guide ](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) 📝
+- [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011) 📝
+- [Your First PWA](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/) 📝
+
+### Web Performance
+
+ - [Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2019/01/front-end-performance-checklist-2019-pdf-pages/)
+ - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
+ - [Perf.rocks](https://perf.rocks/)
+ - [High Performance Web Sites: Essential Knowledge for Front-End Engineers](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) 📚
+ - [JavaScript Performance](https://frontendmasters.com/courses/web-performance/)
 
 ### Web Accessibility
 - [Getting Started: Intro to Accessibility Concepts & Tools](http://wps.pearsoned.com/accessibility/207/53073/13586831.cw/index.html) 📝
+- [Accessible to all](https://web.dev/accessible) 📝
