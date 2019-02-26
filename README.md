@@ -17,6 +17,9 @@ Resource types:
  📝 - Reading  
  🎤 - Podcast  
  👩‍💻 - Community  
+ 💰 - Paid Resource  
+ 🎁- Free Resource  
+ 🏆 - Exercises 
 
 ##  Beginner Level Front End Development
 
