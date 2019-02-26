@@ -16,8 +16,8 @@ Resource types:
  📹 - Video  
  📝 - Reading  
  🎤 - Podcast  
- 👩‍💻 - Community
- 💲  - Paid
+ 👩‍💻 - Community  
+ 💲  - Paid  
  🆓 - Free
 
 ## Beginner Level Front End Development
@@ -36,7 +36,7 @@ Resource types:
 
 ### CSS
 
-- [Learn CSS from CodeCademy](https://www.codecademy.com/learn/learn-css) 🎮 💲
+- [Learn CSS from CodeCademy](https://www.codecademy.com/learn/learn-css) 🎮 🆓
 - [MDN CSS Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS) 📝 🆓
 - [CSS Reference](https://cssreference.io/) 📝 🆓
 - [Learn Layout](http://learnlayout.com/) 📝 🆓
@@ -63,7 +63,15 @@ Resource types:
 - [HTMLDog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝 🆓
 - [JavaScript for Beginners - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 📹 🆓
 
-<!-- ### GIT -->
+### GIT
+
+- [Git basics](https://git-scm.com/videos) 📹 🆓
+- [Version Control with Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123) 📹 🆓
+- [How to use Git and Github - Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775) 📹 🆓
+- [Github and Collaboration - Udacity](https://www.udacity.com/course/github-collaboration--ud456) 📹 🆓
+- [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) 📝 🆓
+- [Git Interactive](https://www.katacoda.com/courses/git) 🎮 🆓
+- [Pro Git Book](https://git-scm.com/book/en/v2) 📚 🆓
 
 ## Mid Level Front End Development
 
@@ -71,7 +79,7 @@ Resource types:
 
 - [A Beginner’s Guide to CSS Grid by Kara Luton - freeCodeCamp](https://medium.freecodecamp.org/a-beginners-guide-to-css-grid-3889612c4b35) 📝 🆓
 - [CSS Grid Layout — Simple Guide by Sergey Gavelyuk](https://codeburst.io/css-grid-layout-simple-guide-e0296cf14fe8) 📝 🆓
-- [Learn CSS Grid by Per Harald Borgen - Scrimba](https://scrimba.com/g/gR8PTE)📹 🎮 🆓
+- [Learn CSS Grid by Per Harald Borgen - Scrimba](https://scrimba.com/g/gR8PTE) 📹 🎮 🆓
 - [CSS Flexbox - W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) 🎮 🆓
 - [CSS Flexbox Tutorial - mmtuts](https://www.youtube.com/watch?v=0e02dl66PYo) 📹 🆓
 - [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝 🆓
@@ -122,7 +130,7 @@ Resource types:
 
 - [Vue Official Documentation](https://vuejs.org/v2/guide/) 📝 🆓
 - [Vue Cookbook](https://vuejs.org/v2/cookbook/) 📝 🆓
-- [Vue Mastery](https://www.vuemastery.com/) 📹 🆓
+- [Vue Mastery](https://www.vuemastery.com/) 📹 💲
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) 📝 🆓
 - [Egghead Vue Courses](https://egghead.io/browse/frameworks/vue) 📹 💲
 
@@ -195,6 +203,7 @@ Resource types:
 <!-- ### Data Mangement (GraphQL, Rest) -->
 <!-- ### Serverless Architecture -->
 <!-- ### Computer Science  -->
+<!-- https://www.cs.hmc.edu/csforall/ -->
 
 ### State Management
 
@@ -221,7 +230,7 @@ Resource types:
 
 - [Progressive Web App - Google](https://developers.google.com/web/progressive-web-apps/) 📝 🆓
 - [Intro to Progressive Web Apps](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811) 📹 🆓
-- [Progressive Web Applications and Offline](https://frontendmasters.com/courses/progressive-web-apps/) 📹 🆓
+- [Progressive Web Applications and Offline](https://frontendmasters.com/courses/progressive-web-apps/) 📹 💲
 - [A Beginner's Guide To Progressive Web Apps](https://www.smashingmagazine.com/2016/08/a-beginners-guide-to-progressive-web-apps/) 📝 🆓
 - [MDN - Progressive Web App Guide](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) 📝 🆓
 - [4 important points to know about Progressive Web Apps (PWA)](https://medium.com/@deepusnath/4-points-to-keep-in-mind-before-introducing-progressive-web-apps-pwa-to-your-team-8dc66bcf6011) 📝 🆓
@@ -229,11 +238,10 @@ Resource types:
 
 ### Web Performance
 
-- [Front-End Performance Checklist 2019 [PDF, Apple Pages, MS Word]](https://www.smashingmagazine.com/2019/01front-end-performance-checklist-2019-pdf-pages/)📝 🆓
-- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)📹 🆓
-- [Perf.rocks](https://perf.rocks/)📝 🆓
+- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884) 📹 🆓
+- [Perf.rocks](https://perf.rocks/) 📝 🆓
 - [High Performance Web Sites: Essential Knowledge for Front-End Engineers](https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e93ab3ea06b7e3e93ee0d868249d0e3f&camp=1789&creative=9325) 📚 💲
-- [JavaScript Performance](https://frontendmasters.com/courses/web-performance/)📹 💲
+- [JavaScript Performance](https://frontendmasters.com/courses/web-performance/) 📹 💲
 
 ### Web Accessibility
 
