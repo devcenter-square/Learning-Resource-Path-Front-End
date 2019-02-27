@@ -199,11 +199,22 @@ Resource types:
 - [A complete Guide to SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) 📝 🆓
 - [Quick! What’s the Difference Between Flexbox and Grid?](https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/) 📝 🆓
 
-<!-- ### JavaScript -->
-<!-- ### Data Mangement (GraphQL, Rest) -->
-<!-- ### Serverless Architecture -->
-<!-- ### Computer Science  -->
-<!-- https://www.cs.hmc.edu/csforall/ -->
+<!-- ### JavaScript - already exits in this section up there!-->
+
+### Data Mangement (GraphQL, Rest)
+
+- [REST API Concepts and Examples](https://youtu.be/7YcW25PHnAA) 📹 🆓
+
+### Serverless Architecture
+
+- [Serverless Architecture Explained](https://www.youtube.com/watch?v=RzsaM6kL1FU) 📹 🆓
+
+### Computer Science
+
+- [Computer Science for All](https://www.cs.hmc.edu/csforall/) 📝 🆓
+
+<!-- I've not audited this resource so I can't vouch for it yet, but i feel it's good -
+[Intro to Computer Science - Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101) 📹 🆓 -->
 
 ### State Management
 
