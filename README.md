@@ -103,6 +103,13 @@ Resource types:
 - [JavaScript & The spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca)📝
 - [Libraries vs Frameworks](https://medium.com/datafire-io/libraries-vs-frameworks-626cdde799a7)📝
 - [Single-Page Applications (and how they work)](https://blog.pshrmn.com/entry/how-single-page-applications-work/)📝
+- [Regular Expressions Demystified: RegEx isn’t as hard as it looks
+](https://medium.freecodecamp.org/regular-expressions-demystified-regex-isnt-as-hard-as-it-looks-617b55cf787)📝🎁
+- [An Introduction to Regular Expressions (Regex) In JavaScript](https://codeburst.io/an-introduction-to-regular-expressions-regex-in-javascript-1d3559e7ac9a) )📝🎁
+- [Commenting JavaScript code with JSDoc](https://www.eventbrite.com/engineering/commenting-javascript-code-with-jsdoc/)📝🎁
+- [Introduction to Functional Programming in JavaScript](https://medium.com/the-andela-way/introduction-to-functional-programming-in-javascript-1e7118545618)📝🎁
+- [Functional Programming and Function Chaining in JavaScript](https://medium.com/@gertienyesh/functional-programming-and-function-chaining-in-javascript-76628d3cf1f5)📝🎁
+
 
 ### React
 
