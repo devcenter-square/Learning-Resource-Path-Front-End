@@ -14,7 +14,7 @@ Resource types:
  🎮 - Interactive  
  📚 - Book  
  📹 - Video  
- 📝 - Reading  
+ 📝 - Article  
  🎤 - Podcast  
  👩‍💻 - Community  
  💰 - Paid Resource  
@@ -48,7 +48,7 @@ Resource types:
 - [CSS Tutorial](https://www.csstutorial.net/css-intro/introductioncss-part1.php) 📝 🎁
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝 🎁
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝 🎁
-- [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties)📝 🎁
+- [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties) 📝 🎁
 
 ### JavaScript
 
