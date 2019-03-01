@@ -265,3 +265,4 @@ Resource types:
 
 - [Getting Started: Intro to Accessibility Concepts & Tools](http://wps.pearsoned.com/accessibility/207/53073/13586831.cw/index.html) 📝 🎁
 - [Accessible to all](https://web.dev/accessible) 📝 🎁
+- [Accessiblity.dev](https://accessibility.dev/)📝 🎁
