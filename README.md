@@ -67,6 +67,7 @@ Resource types:
 ### GIT
 
 - [Git basics](https://git-scm.com/videos) 📹 🎁
+- [git - the simple guide](http://rogerdudler.github.io/git-guide/) 📝 🎁
 - [Version Control with Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123) 📹 🎁
 - [How to use Git and Github - Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775) 📹 🎁
 - [Github and Collaboration - Udacity](https://www.udacity.com/course/github-collaboration--ud456) 📹 🎁
@@ -104,6 +105,7 @@ Resource types:
 
 - [10 Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/) 📝 🎁
 - [Exploring ES6](http://exploringjs.com/es6.html) 📚 🎁
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 📚 🎁
 - [Robust JavaScript](https://molily.de/robust-javascript/) 📚 🎁
 - [You Don't Know JS - Types and Grammer](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) 📚 🎁
 - [You Don't Know JS - Scope and Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) 📚 🎁
