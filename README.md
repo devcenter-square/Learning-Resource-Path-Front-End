@@ -75,6 +75,10 @@ Resource types:
 - [Git Interactive](https://www.katacoda.com/courses/git) 🎮 🎁
 - [Pro Git Book](https://git-scm.com/book/en/v2) 📚 🎁
 
+### Exercises
+
+-[Simple projects using HTML and CSS](https://codeclubprojects.org/en-GB/webdev/)
+
 ## Mid Level Front End Development
 
 ### CSS
@@ -208,7 +212,6 @@ Resource types:
 - [A complete Guide to SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) 📝 🎁
 - [Quick! What’s the Difference Between Flexbox and Grid?](https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/) 📝 🎁
 
-<!-- ### JavaScript - already exits in this section up there!-->
 
 ### Data Mangement (GraphQL, Rest)
 
@@ -221,9 +224,6 @@ Resource types:
 ### Computer Science
 
 - [Computer Science for All](https://www.cs.hmc.edu/csforall/) 📝 🎁
-
-<!-- I've not audited this resource so I can't vouch for it yet, but i feel it's good -
-[Intro to Computer Science - Udacity](https://www.udacity.com/course/intro-to-computer-science--cs101) 📹 🎁 -->
 
 ### State Management
 
