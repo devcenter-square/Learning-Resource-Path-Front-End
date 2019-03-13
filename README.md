@@ -269,3 +269,4 @@ Resource types:
 - [Accessible to all](https://web.dev/accessible) 📝 🎁
 - [Accessiblity.dev](https://accessibility.dev/)📝 🎁
 - [Accessibility Guide](https://webaccessibility.guide/) 📝 🎁
+- [Accessiblity Insights](https://accessibilityinsights.io/en/)📝 🎁
