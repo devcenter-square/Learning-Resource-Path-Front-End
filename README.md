@@ -295,3 +295,4 @@ Resource types:
 - [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝 🎁
 - [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹 🎁
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) 📝 🎁
+- [WCAG Docs](https://www.w3.org/TR/WCAG21/)📝 🎁
