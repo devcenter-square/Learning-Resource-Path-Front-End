@@ -51,7 +51,7 @@ Resource types:
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝 🎁
 - [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties) 📝 🎁
 
-### Exercises & Challenges to test out your knowledge on HTML and CSS
+### 🏆 Exercises & Challenges to test out your knowledge on HTML and CSS 🏆
 
 - [Make a customised birthday card](https://codeclubprojects.org/en-GB/webdev/happy-birthday/)
 - [Tell a story with a webpage](https://codeclubprojects.org/en-GB/webdev/tell-a-story/)
@@ -176,7 +176,7 @@ Resource types:
 - [Testing with Jest: from zero to hero](https://blog.logrocket.com/testing-with-jest-from-zero-to-hero-85ce0e9cc953) 📝 🎁
 - [Learn Javascript Unit Testing With Mocha, Chai and Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) 📹 💰
 
-### Exercises & Challenges to test out your knowledge on JavaScript
+### 🏆 Exercises & Challenges to test out your knowledge on JavaScript 🏆
 
 - [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/Bin2Dec-App.md)
 - [TrueOrFalse](https://github.com/florinpop17/app-ideas/blob/master/Projects/True-or-False-App.md)
