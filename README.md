@@ -270,3 +270,4 @@ Resource types:
 - [Accessiblity.dev](https://accessibility.dev/)📝 🎁
 - [Accessibility Guide](https://webaccessibility.guide/) 📝 🎁
 - [Accessiblity Insights](https://accessibilityinsights.io/en/)📝 🎁
+- [WCAG Docs](https://www.w3.org/TR/WCAG21/)📝 🎁
