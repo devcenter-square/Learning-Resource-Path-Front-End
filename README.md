@@ -19,7 +19,7 @@ Resource types:
  👩‍💻 - Community  
  💰 - Paid Resource  
  🎁- Free Resource  
- 🏆 - Exercises 
+ 🏆 - Exercises
 
 ## Beginner Level Front End Development
 
@@ -51,6 +51,21 @@ Resource types:
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝 🎁
 - [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties) 📝 🎁
 
+### Exercises & Challenges to test out your knowledge on HTML and CSS
+
+- [Make a customised birthday card](https://codeclubprojects.org/en-GB/webdev/happy-birthday/)
+- [Tell a story with a webpage](https://codeclubprojects.org/en-GB/webdev/tell-a-story/)
+- [Make a poster](https://codeclubprojects.org/en-GB/webdev/wanted/)
+- [Create a webpage to display your favourite recipe](https://codeclubprojects.org/en-GB/webdev/recipe/)
+- [Create a mystery letter](https://codeclubprojects.org/en-GB/webdev/mystery-letter/)
+- [Create a webpage to showcase your projects](https://codeclubprojects.org/en-GB/webdev/project-showcase/)
+- [Build a robot on a webpage](https://codeclubprojects.org/en-GB/webdev/build-a-robot/)
+- [Create fun robot stickers](https://codeclubprojects.org/en-GB/webdev/stickers/)
+- [Create an animated sunrise image](https://codeclubprojects.org/en-GB/webdev/sunrise/)
+- [Create a web project with several linked rooms](https://codeclubprojects.org/en-GB/webdev/linked-rooms/)
+- [Create a multi-page magazine website](https://codeclubprojects.org/en-GB/webdev/magazine/)
+- [Create a pixel editor](https://codeclubprojects.org/en-GB/webdev/pixel-art/)
+
 ### JavaScript
 
 - [JavaScript.info](https://javascript.info/) 📝 🎁
@@ -75,10 +90,6 @@ Resource types:
 - [Git Interactive](https://www.katacoda.com/courses/git) 🎮 🎁
 - [Pro Git Book](https://git-scm.com/book/en/v2) 📚 🎁
 
-### Exercises
-
--[Simple projects using HTML and CSS](https://codeclubprojects.org/en-GB/webdev/)
-
 ## Mid Level Front End Development
 
 ### CSS
@@ -88,6 +99,7 @@ Resource types:
 - [Learn CSS Grid by Per Harald Borgen - Scrimba](https://scrimba.com/g/gR8PTE) 📹 🎮 🎁
 - [CSS Flexbox - W3Schools](https://www.w3schools.com/css/css3_flexbox.asp) 🎮 🎁
 - [CSS Flexbox Tutorial - mmtuts](https://www.youtube.com/watch?v=0e02dl66PYo) 📹 🎁
+- [Quick! What’s the Difference Between Flexbox and Grid?](https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/) 📝 🎁
 - [Media Queries - MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries) 📝 🎁
 - [CSS3 Media Queries - TutorialRepublic](https://www.tutorialrepublic.com/css-tutorial/css3-media-queries.php) 📝 🎁
 - [Logic in Media Queries by Chris Coyier - CSS-Tricks](https://css-tricks.com/logic-in-media-queries/) 📝 🎁
@@ -124,7 +136,6 @@ Resource types:
 - [Commenting JavaScript code with JSDoc](https://www.eventbrite.com/engineering/commenting-javascript-code-with-jsdoc/) 📝 🎁
 - [Introduction to Functional Programming in JavaScript](https://medium.com/the-andela-way/introduction-to-functional-programming-in-javascript-1e7118545618) 📝 🎁
 - [Functional Programming and Function Chaining in JavaScript](https://medium.com/@gertienyesh/functional-programming-and-function-chaining-in-javascript-76628d3cf1f5) 📝 🎁
-
 
 ### React
 
@@ -165,6 +176,32 @@ Resource types:
 - [Testing with Jest: from zero to hero](https://blog.logrocket.com/testing-with-jest-from-zero-to-hero-85ce0e9cc953) 📝 🎁
 - [Learn Javascript Unit Testing With Mocha, Chai and Sinon](https://www.udemy.com/learn-javascript-unit-testing-with-mocha-chai-and-sinon/) 📹 💰
 
+### Exercises & Challenges to test out your knowledge on JavaScript
+
+- [Bin2Dec](https://github.com/florinpop17/app-ideas/blob/master/Projects/Bin2Dec-App.md)
+- [TrueOrFalse](https://github.com/florinpop17/app-ideas/blob/master/Projects/True-or-False-App.md)
+- [Color Cycle](https://github.com/florinpop17/app-ideas/blob/master/Projects/Color-Cycle-App.md)
+- [Flip Image](https://github.com/florinpop17/app-ideas/blob/master/Projects/Flip-Image-App.md)
+- [Lorem Ipsum generator](https://github.com/florinpop17/app-ideas/blob/master/Projects/Lorem-Ipsum-Generator.md)
+- [Notes App](https://github.com/florinpop17/app-ideas/blob/master/Projects/Notes-App.md)
+- [Slider Design](https://github.com/florinpop17/app-ideas/blob/master/Projects/Slider-Design.md)
+- [Pomodoro Clock](https://github.com/florinpop17/app-ideas/blob/master/Projects/Pomodoro-Clock.md)
+- [Cause-Effect](https://github.com/florinpop17/app-ideas/blob/master/Projects/Cause-Effect-App.md)
+- [Christmas Lights](https://github.com/florinpop17/app-ideas/blob/master/Projects/Christmas-Lights-App.md)
+- [Windchill](https://github.com/florinpop17/app-ideas/blob/master/Projects/Windchill-App.md)
+- [Book Finder App](https://github.com/florinpop17/app-ideas/blob/master/Projects/Book-Finder-App.md)
+- [Flash Cards](https://github.com/florinpop17/app-ideas/blob/master/Projects/FlashCards-App.md)
+- [Markdown Previewer](https://github.com/florinpop17/app-ideas/blob/master/Projects/Markdown-Previewer.md)
+- [Markdown Table Generator]()
+- [](https://github.com/florinpop17/app-ideas/blob/master/Projects/Markdown-Table-Generator.md)
+- [String Art](https://github.com/florinpop17/app-ideas/blob/master/Projects/String-Art.md)
+- [Timezone Slackbot - TZ](https://github.com/florinpop17/app-ideas/blob/master/Projects/Timezone-Slackbot.md)
+- [To-Do App](https://github.com/florinpop17/app-ideas/blob/master/Projects/To-Do-App.md)
+- [GitHub Timeline](https://github.com/florinpop17/app-ideas/blob/master/Projects/GitHub-Timeline-App.md)
+- [Kudo's Slackbot](https://github.com/florinpop17/app-ideas/blob/master/Projects/Kudos-Slackbot.md)
+- [Slack Archiver](https://github.com/florinpop17/app-ideas/blob/master/Projects/Slack-Archiver.md)
+- [Spell-It](https://github.com/florinpop17/app-ideas/blob/master/Projects/SpellIt-App.md)
+
 ### Web Animations
 
 - [A Detailed Guide to CSS Animations and Transitions](https://medium.com/engineerbabu/a-detailed-guide-to-css-animations-and-transitions-b544502c089c?ref=devawesome) 📝 🎁
@@ -182,14 +219,6 @@ Resource types:
 - [Understanding Web Fonts and Getting the Most Out of Them - CSS-Tricks](https://css-tricks.com/understanding-web-fonts-getting/) 📝 🎁
 - [Get Started with the Google Fonts API](https://developers.google.com/fonts/docs/getting_started) 📝 🎁
 
-### Web Accessibility
-
-- [Web Accessibility - The Four Principles (MDN Docs)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Understanding_WCAG#The_four_principles) 📝 🎁
-- [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝 🎁
-- [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹 🎁
-- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) 📝 🎁
-- [Introduction to Web Accessibility](https://www.w3.org/WAI/fundamentals/accessibility-intro/) 📝 🎁
-
 ### UI/UX Design
 
 - [Learn UX](https://learnux.io) 📝 🎁
@@ -206,12 +235,6 @@ Resource types:
 - [Browser Security Handbook](https://code.google.com/archive/p/browsersec/wikis/Main.wiki) 📝 🎁
 - [Frontend Security](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) 📹 🎁
 - [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) 📝 🎁
-
-### CSS
-
-- [A complete Guide to SCSS/SASS](https://medium.com/@js_tut/the-complete-guide-to-scss-sass-49ac053fcde5) 📝 🎁
-- [Quick! What’s the Difference Between Flexbox and Grid?](https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/) 📝 🎁
-
 
 ### Data Mangement (GraphQL, Rest)
 
@@ -270,3 +293,6 @@ Resource types:
 - [Accessiblity.dev](https://accessibility.dev/)📝 🎁
 - [Accessibility Guide](https://webaccessibility.guide/) 📝 🎁
 - [Accessiblity Insights](https://accessibilityinsights.io/en/)📝 🎁
+- [Web Accessibility - Google](https://developers.google.com/web/fundamentals/accessibility/) 📝 🎁
+- [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹 🎁
+- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) 📝 🎁
