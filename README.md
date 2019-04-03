@@ -3,8 +3,8 @@
 	<p>✨This repo serves as a resource for developers to leverage on their journey into Front End Development.✨</p>
    <p align="center">
     <a href="https://github.com/lauragift21/Learning-Resource-Path-Front-End"><img src="https://img.shields.io/badge/Roadmap-2019-purple.svg"/></a>
-      <a href="https://twitter.com/intent/tweet?text=Learning%20Resource%20Roadmap%20for%20Front%20End%20Developers%20by%20@lauragift21%20%20https%3A//github.com/lauragift21/Learning-Resource-Path-Front-End"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
-<a href="https://twitter.com/lauragift21"><img src="https://img.shields.io/badge/feedback-@lauragift21-green.svg" /></a>
+      <a href="https://twitter.com/intent/tweet?text=Learning%20Resource%20Roadmap%20for%20Front%20End%20Developers%20https%3A//github.com/devcenter-square/Learning-Resource-Path-Front-End"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
+<a href="https://www.devcenter.co/community"><img src="https://img.shields.io/badge/feedback-@devcentersquare-green.svg" /></a>
   </p>
 </div>
 
