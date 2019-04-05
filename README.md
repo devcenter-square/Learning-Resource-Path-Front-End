@@ -157,6 +157,8 @@ Resource types:
 - [Vue Mastery](https://www.vuemastery.com/) 📹 💰
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) 📝 🎁
 - [Egghead Vue Courses](https://egghead.io/browse/frameworks/vue) 📹 💰
+- [Fullstack Vue](https://www.fullstack.io/vue) 📹 💰
+
 
 ### Angular
 
