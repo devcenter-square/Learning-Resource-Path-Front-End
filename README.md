@@ -116,6 +116,8 @@ Resource types:
 - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) 📝 🎁
 - [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACS)](https://snipcart.com/blog/organize-css-modular-architecture) 📝 🎁
 - [Understanding CSS Selectors](https://medium.com/backticks-tildes/understanding-css-selectors-26fe2ea19132) 📝 🎁
+- [BEM: A New Front-End Methodology](https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/) 📝 🎁
+- [BEM - Full Introduction to the BEM Methodology](https://www.toptal.com/css/introduction-to-bem-methodology) 📝
 
 ### JavaScript
 
