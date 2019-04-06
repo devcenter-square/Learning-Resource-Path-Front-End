@@ -162,7 +162,7 @@ Resource types:
 
 ### Angular
 
-- [Angular 2 Tutorial](https://egghead.io/technologies/angular2) 📹 💰
+- [Angular Tutorial](https://egghead.io/browse/frameworks/angular) 📹 💰
 - [Angular - An Overview](https://medium.com/@mlbors/an-overview-of-angular-3ccd2950648e) 📝 🎁
 - [Angular - Official Home Page](https://angular.io/) 📝 🎁
 - [Angular: Getting Started (Deborah Kurata - Pluralsight)](https://www.pluralsight.com/courses/angular-2-getting-started-update) 📹 💰
