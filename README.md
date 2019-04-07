@@ -25,7 +25,6 @@ Resource types:
 
 ### HTML
  - [Codecademy](https://www.codecademy.com/learn/learn-html) 🎮 🎁
- - [FreeCodeCamp](https://learn.freecodecamp.org/) 🎁👩‍💻🏆🎮
  - [HTML Cheatsheet](https://digital.com/tools/html-cheatsheet/) 📝 🎁
  - [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) 📹 🎁
  - [HTML Best Practices](https://github.com/hail2u/html-best-practices) 📝 🎁
