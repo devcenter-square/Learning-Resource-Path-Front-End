@@ -11,15 +11,15 @@
 This is a visual roadmap for beginners venturing into the World of Software Development. In order not to feel overwhelmed by how much you need to know to be a Front End Developer. This roadmap serves as a guide through out your journey. You can follow through this guide and be assured you are on the right path.
 
 Resource types:
- 🎮 - Interactive
- 📚 - Book
- 📹 - Video
- 📝 - Article
- 🎤 - Podcast
- 👩‍💻 - Community
- 💰 - Paid Resource
- 🎁- Free Resource
- 🏆 - Exercises
+ 🎮 - Interactive  
+ 📚 - Book  
+ 📹 - Video  
+ 📝 - Article  
+ 🎤 - Podcast  
+ 👩‍💻 - Community  
+ 💰 - Paid Resource  
+ 🎁- Free Resource  
+ 🏆 - Exercises  
 
 ## Beginner Level Front End Development
 
