@@ -65,6 +65,7 @@ Resource types:
 - [Create a web project with several linked rooms](https://codeclubprojects.org/en-GB/webdev/linked-rooms/)
 - [Create a multi-page magazine website](https://codeclubprojects.org/en-GB/webdev/magazine/)
 - [Create a pixel editor](https://codeclubprojects.org/en-GB/webdev/pixel-art/)
+- [Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/?WT.mc_id=none-twitter-buhollan)  
 
 ### JavaScript
 
@@ -116,6 +117,8 @@ Resource types:
 - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) 📝 🎁
 - [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACS)](https://snipcart.com/blog/organize-css-modular-architecture) 📝 🎁
 - [Understanding CSS Selectors](https://medium.com/backticks-tildes/understanding-css-selectors-26fe2ea19132) 📝 🎁
+- [BEM: A New Front-End Methodology](https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/) 📝 🎁
+- [BEM - Full Introduction to the BEM Methodology](https://www.toptal.com/css/introduction-to-bem-methodology) 📝
 
 ### JavaScript
 
@@ -153,15 +156,17 @@ Resource types:
 ### Vue
 
 - [Vue Official Documentation](https://vuejs.org/v2/guide/) 📝 🎁
+- [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) 📹 🎁
 - [Vue Cookbook](https://vuejs.org/v2/cookbook/) 📝 🎁
 - [Vue Mastery](https://www.vuemastery.com/) 📹 💰
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) 📝 🎁
 - [Egghead Vue Courses](https://egghead.io/browse/frameworks/vue) 📹 💰
 - [Vue Developers Blog & Courses](https://vuejsdevelopers.com/) 📝 📹 🎁 💰
+- [Fullstack Vue ](https://www.fullstack.io/vue) 📹 💰
 
 ### Angular
 
-- [Angular 2 Tutorial](https://egghead.io/technologies/angular2) 📹 💰
+- [Angular Tutorial](https://egghead.io/browse/frameworks/angular) 📹 💰
 - [Angular - An Overview](https://medium.com/@mlbors/an-overview-of-angular-3ccd2950648e) 📝 🎁
 - [Angular - Official Home Page](https://angular.io/) 📝 🎁
 - [Angular: Getting Started (Deborah Kurata - Pluralsight)](https://www.pluralsight.com/courses/angular-2-getting-started-update) 📹 💰
