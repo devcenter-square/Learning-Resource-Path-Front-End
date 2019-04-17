@@ -65,6 +65,7 @@ Resource types:
 - [Create a web project with several linked rooms](https://codeclubprojects.org/en-GB/webdev/linked-rooms/)
 - [Create a multi-page magazine website](https://codeclubprojects.org/en-GB/webdev/magazine/)
 - [Create a pixel editor](https://codeclubprojects.org/en-GB/webdev/pixel-art/)
+- [Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/?WT.mc_id=none-twitter-buhollan)  
 
 ### JavaScript
 
