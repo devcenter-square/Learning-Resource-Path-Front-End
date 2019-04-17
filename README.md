@@ -19,7 +19,7 @@ Resource types:
  👩‍💻 - Community  
  💰 - Paid Resource  
  🎁- Free Resource  
- 🏆 - Exercises
+ 🏆 - Exercises  
 
 ## Beginner Level Front End Development
 
@@ -161,8 +161,8 @@ Resource types:
 - [Vue Mastery](https://www.vuemastery.com/) 📹 💰
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) 📝 🎁
 - [Egghead Vue Courses](https://egghead.io/browse/frameworks/vue) 📹 💰
+- [Vue Developers Blog & Courses](https://vuejsdevelopers.com/) 📝 📹 🎁 💰
 - [Fullstack Vue ](https://www.fullstack.io/vue) 📹 💰
-
 
 ### Angular
 
