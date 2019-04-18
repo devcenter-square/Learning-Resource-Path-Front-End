@@ -163,6 +163,7 @@ Resource types:
 - [Egghead Vue Courses](https://egghead.io/browse/frameworks/vue) 📹 💰
 - [Vue Developers Blog & Courses](https://vuejsdevelopers.com/) 📝 📹 🎁 💰
 - [Fullstack Vue ](https://www.fullstack.io/vue) 📹 💰
+- [THE VUE.JS COURSE](https://vuecourse.com/preview/) 📝 🎁
 
 ### Angular
 
