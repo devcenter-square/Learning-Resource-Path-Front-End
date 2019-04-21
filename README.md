@@ -261,6 +261,7 @@ Resource types:
 - [Manage Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree) 📹
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) 📹 💰
 - [React js tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) 📹 🎁
+- [A Complete React Redux Tutorial for Beginners (2019)](https://daveceddia.com/redux-tutorial/) 📝 📹 🎁
 
 ### Web Typography
 
