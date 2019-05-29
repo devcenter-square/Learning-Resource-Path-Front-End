@@ -15,7 +15,7 @@ Please ensure your Pull Request adheres to the following guidelines:
 - Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
 - Use Title Casing.
-- Use the following format: [Resource Name](link) [emoji](emoji)
+- Use the following format: [Resource Name - emoji](https://github.com/devcenter-square/Learning-Resource-Path-Front-End#learning-resource-roadmap---front-end-development)
 - Link additions should be added to the bottom of the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Please check your spelling and grammar.
