@@ -3,8 +3,8 @@
 	<p>✨This repo serves as a resource for developers to leverage on their journey into Front End Development.✨</p>
    <p align="center">
     <a href="https://github.com/lauragift21/Learning-Resource-Path-Front-End"><img src="https://img.shields.io/badge/Roadmap-2019-purple.svg"/></a>
-      <a href="https://twitter.com/intent/tweet?text=Learning%20Resource%20Roadmap%20for%20Front%20End%20Developers%20https%3A//github.com/devcenter-square/Learning-Resource-Path-Front-End"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
-<a href="https://www.devcenter.co/community"><img src="https://img.shields.io/badge/feedback-@devcentersquare-green.svg" /></a>
+      <a href="https://twitter.com/intent/tweet?text=Learning%20Resource%20Roadmap%20for%20Front%20End%20Developers%20by%20@lauragift21%20%20https%3A//github.com/lauragift21/Learning-Resource-Path-Front-End"><img src="https://img.shields.io/badge/twitter-tweet-blue.svg"/></a>
+<a href="https://twitter.com/lauragift21"><img src="https://img.shields.io/badge/feedback-@lauragift21-green.svg" /></a>
   </p>
 </div>
 
@@ -19,7 +19,7 @@ Resource types:
  👩‍💻 - Community  
  💰 - Paid Resource  
  🎁- Free Resource  
- 🏆 - Exercises  
+ 🏆 - Exercises
 
 ## Beginner Level Front End Development
 
@@ -65,7 +65,6 @@ Resource types:
 - [Create a web project with several linked rooms](https://codeclubprojects.org/en-GB/webdev/linked-rooms/)
 - [Create a multi-page magazine website](https://codeclubprojects.org/en-GB/webdev/magazine/)
 - [Create a pixel editor](https://codeclubprojects.org/en-GB/webdev/pixel-art/)
-- [Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/?WT.mc_id=none-twitter-buhollan)  
 
 ### JavaScript
 
@@ -117,8 +116,6 @@ Resource types:
 - [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35) 📝 🎁
 - [How to Organize Your CSS with a Modular Architecture (OOCSS, BEM, SMACS)](https://snipcart.com/blog/organize-css-modular-architecture) 📝 🎁
 - [Understanding CSS Selectors](https://medium.com/backticks-tildes/understanding-css-selectors-26fe2ea19132) 📝 🎁
-- [BEM: A New Front-End Methodology](https://www.smashingmagazine.com/2012/04/a-new-front-end-methodology-bem/) 📝 🎁
-- [BEM - Full Introduction to the BEM Methodology](https://www.toptal.com/css/introduction-to-bem-methodology) 📝
 
 ### JavaScript
 
@@ -156,18 +153,14 @@ Resource types:
 ### Vue
 
 - [Vue Official Documentation](https://vuejs.org/v2/guide/) 📝 🎁
-- [Learn Vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step) 📹 🎁
 - [Vue Cookbook](https://vuejs.org/v2/cookbook/) 📝 🎁
 - [Vue Mastery](https://www.vuemastery.com/) 📹 💰
 - [Awesome Vue](https://github.com/vuejs/awesome-vue) 📝 🎁
 - [Egghead Vue Courses](https://egghead.io/browse/frameworks/vue) 📹 💰
-- [Vue Developers Blog & Courses](https://vuejsdevelopers.com/) 📝 📹 🎁 💰
-- [Fullstack Vue ](https://www.fullstack.io/vue) 📹 💰
-- [THE VUE.JS COURSE](https://vuecourse.com/preview/) 📝 🎁
 
 ### Angular
 
-- [Angular Tutorial](https://egghead.io/browse/frameworks/angular) 📹 💰
+- [Angular 2 Tutorial](https://egghead.io/technologies/angular2) 📹 💰
 - [Angular - An Overview](https://medium.com/@mlbors/an-overview-of-angular-3ccd2950648e) 📝 🎁
 - [Angular - Official Home Page](https://angular.io/) 📝 🎁
 - [Angular: Getting Started (Deborah Kurata - Pluralsight)](https://www.pluralsight.com/courses/angular-2-getting-started-update) 📹 💰
@@ -207,6 +200,14 @@ Resource types:
 - [Kudo's Slackbot](https://github.com/florinpop17/app-ideas/blob/master/Projects/Kudos-Slackbot.md)
 - [Slack Archiver](https://github.com/florinpop17/app-ideas/blob/master/Projects/Slack-Archiver.md)
 - [Spell-It](https://github.com/florinpop17/app-ideas/blob/master/Projects/SpellIt-App.md)
+- [Build a simple calculator](https://zellwk.com/blog/calculator-part-1/)
+- [Make an Image slider](http://rafbm.github.io/howtomakeaslider/)
+- [Make a pop-up penguin game](https://googlecreativelab.github.io/coder-projects/projects/pop_up_penguins/)
+- [Make your own modrian](https://googlecreativelab.github.io/coder-projects/projects/mondrian/)
+- [Night and Day switcher](https://googlecreativelab.github.io/coder-projects/projects/night_and_day/)
+- [Music Boxes](https://googlecreativelab.github.io/coder-projects/projects/music_boxes/)
+- [Two Puppy](https://googlecreativelab.github.io/coder-projects/projects/two_puppy/)
+- [Create a Game: Breakout](https://billmill.org/static/canvastutorial/index.html)
 
 ### Web Animations
 
@@ -261,7 +262,6 @@ Resource types:
 - [Manage Application State with Mobx-state-tree](https://egghead.io/courses/manage-application-state-with-mobx-state-tree) 📹
 - [Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux) 📹 💰
 - [React js tutorial - How Redux Works](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) 📹 🎁
-- [A Complete React Redux Tutorial for Beginners (2019)](https://daveceddia.com/redux-tutorial/) 📝 📹 🎁
 
 ### Web Typography
 
