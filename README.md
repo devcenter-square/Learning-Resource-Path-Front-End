@@ -19,21 +19,22 @@ Resource types:
  👩‍💻 - Community  
  💰 - Paid Resource  
  🎁- Free Resource  
- 🏆 - Exercises  
+ 🏆 - Exercises
 
 ## Beginner Level Front End Development
 
 ### HTML
- - [Codecademy](https://www.codecademy.com/learn/learn-html) 🎮 🎁
- - [HTML Cheatsheet](https://digital.com/tools/html-cheatsheet/) 📝 🎁
- - [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) 📹 🎁
- - [HTML Best Practices](https://github.com/hail2u/html-best-practices) 📝 🎁
- - [HTML Reference Guide](https://htmlreference.io/) 📝 🎁
- - [MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Learn/HTML) 📝 🎁
- - [Marksheet.io](https://marksheet.io/html-basics.html) 📝 🎁
- - [W3Schools HTML Guide](https://www.w3schools.com/html/) 📝 🎁
- - [HTML.com](https://html.com/) 📝 🎁
- - [HTMLDog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝 🎁
+
+- [Codecademy](https://www.codecademy.com/learn/learn-html) 🎮 🎁
+- [HTML Cheatsheet](https://digital.com/tools/html-cheatsheet/) 📝 🎁
+- [Udacity](https://www.udacity.com/course/intro-to-html-and-css--ud001) 📹 🎁
+- [HTML Best Practices](https://github.com/hail2u/html-best-practices) 📝 🎁
+- [HTML Reference Guide](https://htmlreference.io/) 📝 🎁
+- [MDN HTML Guide](https://developer.mozilla.org/en-US/docs/Learn/HTML) 📝 🎁
+- [Marksheet.io](https://marksheet.io/html-basics.html) 📝 🎁
+- [W3Schools HTML Guide](https://www.w3schools.com/html/) 📝 🎁
+- [HTML.com](https://html.com/) 📝 🎁
+- [HTMLDog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝 🎁
 
 ### CSS
 
@@ -65,7 +66,7 @@ Resource types:
 - [Create a web project with several linked rooms](https://codeclubprojects.org/en-GB/webdev/linked-rooms/)
 - [Create a multi-page magazine website](https://codeclubprojects.org/en-GB/webdev/magazine/)
 - [Create a pixel editor](https://codeclubprojects.org/en-GB/webdev/pixel-art/)
-- [Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/?WT.mc_id=none-twitter-buhollan)  
+- [Build a simple website using HTML, CSS, and Javascript](https://docs.microsoft.com/en-us/learn/modules/build-simple-website/?WT.mc_id=none-twitter-buhollan)
 
 ### JavaScript
 
@@ -207,6 +208,14 @@ Resource types:
 - [Kudo's Slackbot](https://github.com/florinpop17/app-ideas/blob/master/Projects/Kudos-Slackbot.md)
 - [Slack Archiver](https://github.com/florinpop17/app-ideas/blob/master/Projects/Slack-Archiver.md)
 - [Spell-It](https://github.com/florinpop17/app-ideas/blob/master/Projects/SpellIt-App.md)
+- [Build a simple calculator](https://zellwk.com/blog/calculator-part-1/)
+- [Make an Image slider](http://rafbm.github.io/howtomakeaslider/)
+- [Make a pop-up penguin game](https://googlecreativelab.github.io/coder-projects/projects/pop_up_penguins/)
+- [Make your own modrian](https://googlecreativelab.github.io/coder-projects/projects/mondrian/)
+- [Night and Day switcher](https://googlecreativelab.github.io/coder-projects/projects/night_and_day/)
+- [Music Boxes](https://googlecreativelab.github.io/coder-projects/projects/music_boxes/)
+- [Two Puppy](https://googlecreativelab.github.io/coder-projects/projects/two_puppy/)
+- [Create a Game: Breakout](https://billmill.org/static/canvastutorial/index.html)
 
 ### Web Animations
 
