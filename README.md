@@ -35,6 +35,7 @@ Resource types:
 - [W3Schools HTML Guide](https://www.w3schools.com/html/) 📝 🎁
 - [HTML.com](https://html.com/) 📝 🎁
 - [HTMLDog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝 🎁
+- [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/) 📹🎁
 
 ### CSS
 
@@ -51,6 +52,7 @@ Resource types:
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝 🎁
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝 🎁
 - [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties) 📝 🎁
+- [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/) 📹🎁
 
 ### 🏆 Exercises & Challenges to test out your knowledge on HTML and CSS 🏆
 
