@@ -72,7 +72,7 @@ Resource types:
 - [Eloquent JavaScript](https://eloquentjavascript.net/) 📚 🎁
 - [Mozilla Developer Network - Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) 📝 🎁
 - [Codecademy](https://www.codecademy.com/learn/learn-javascript) 🎮 🎁
-- [You Don't Know JS - Up and Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) 📚 🎁
+- [You Don't Know JS - Up and Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going) 📚 🎁
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 📝 🎁
 - [Array Explorer](https://sdras.github.io/array-explorer/) 🎮 🎁
 - [Object Explorer](https://sdras.github.io/object-explorer/) 🎮 🎁
@@ -125,9 +125,9 @@ Resource types:
 - [Exploring ES6](http://exploringjs.com/es6.html) 📚 🎁
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) 📚 🎁
 - [Robust JavaScript](https://molily.de/robust-javascript/) 📚 🎁
-- [You Don't Know JS - Types and Grammer](https://github.com/getify/You-Dont-Know-JS/tree/master/types%20%26%20grammar) 📚 🎁
-- [You Don't Know JS - Scope and Closures](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures) 📚 🎁
-- [You Don't Know JS - es6 and beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond) 📚 🎁
+- [You Don't Know JS - Types and Grammer](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/types-grammar/README.md) 📚 🎁
+- [You Don't Know JS - Scope and Closures](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/README.md) 📚 🎁
+- [You Don't Know JS - ES.Next and beyond](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/es-next-beyond/README.md) 📚 🎁
 - [The beginning of an adventure: 13 Weeks of JavaScript ](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533) 📝 🎁
 - [JavaScript: Template Literals & Tag Functions for Beginners](https://codeburst.io/javascript-template-literals-tag-functions-for-beginners-758a041160e1) 📝 🎁
 - [JavaScript & The spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca) 📝 🎁
