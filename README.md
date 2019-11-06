@@ -90,9 +90,10 @@ Resource types:
 - [Version Control with Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123) 📹 🎁
 - [How to use Git and Github - Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775) 📹 🎁
 - [Github and Collaboration - Udacity](https://www.udacity.com/course/github-collaboration--ud456) 📹 🎁
-- [Git Cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf) 📝 🎁
+- [Git Cheatsheet](https://gitsheet.wtf/) 📝 🎁
 - [Git Interactive](https://www.katacoda.com/courses/git) 🎮 🎁
 - [Pro Git Book](https://git-scm.com/book/en/v2) 📚 🎁
+- [Git Branching](https://learngitbranching.js.org/) 🎮 🏆
 
 ## Mid Level Front End Development
 
