@@ -36,6 +36,7 @@ Resource types:
 - [HTML.com](https://html.com/) 📝 🎁
 - [HTMLDog - HTML Beginner](http://www.htmldog.com/guides/html/beginner/) 📝 🎁
 - [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/) 📹🎁
+- [HTML5 Periodic Table](https://websitesetup.org/html5-periodical-table/) 📝🎁
 
 ### CSS
 
