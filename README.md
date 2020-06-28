@@ -318,3 +318,8 @@ Resource types:
 - [Web Accessibility Course by Google and Udacity](https://www.udacity.com/course/web-accessibility--ud891) 📹 🎁
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9) 📝 🎁
 - [WCAG Docs](https://www.w3.org/TR/WCAG21/)📝 🎁
+
+
+### Leverage The Power Of VScode Productivity
+
++ [Deep dive into your favorite code Editor (VScode)]
