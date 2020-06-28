@@ -322,4 +322,4 @@ Resource types:
 
 ### Leverage The Power Of IDE/Text-Editors
 
-+ [Deep dive into your favorite code Editor (VScode) and increase productivity](https://frontendmasters.com/courses/customize-vs-code/)📹🎁
++ [Deep dive into your favorite code Editor (VScode) and increase productivity](https://frontendmasters.com/courses/customize-vs-code/)📹 🎁
