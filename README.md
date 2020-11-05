@@ -158,6 +158,7 @@ Resource types:
 - [React Podcast](https://changelog.com/reactpodcast) 🎤 🎁
 - [React for Beginners](https://reactforbeginners.com/) 📹 💰
 - [Leigh Halliday Blog](https://www.leighhalliday.com/) 📝 🎁
+- [Learn React for free](https://scrimba.com/learn/learnreact) 🎮 🎁
 
 ### Vue
 
