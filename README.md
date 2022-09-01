@@ -79,6 +79,7 @@ Resource types:
 - [Mozilla Developer Network - Learn JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) 📝 🎁
 - [Codecademy](https://www.codecademy.com/learn/learn-javascript) 🎮 🎁
 - [You Don't Know JS - Up and Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going) 📚 🎁
+- [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) 📚 🎁
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 📝 🎁
 - [Array Explorer](https://sdras.github.io/array-explorer/) 🎮 🎁
 - [Object Explorer](https://sdras.github.io/object-explorer/) 🎮 🎁
