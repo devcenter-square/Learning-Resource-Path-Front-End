@@ -49,6 +49,7 @@ Resource types:
 - [CSS Secrets By Lea Verou](https://www.amazon.com/CSS-Secrets-Solutions-Everyday-Problems/dp/1449372635/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=40a9480c18839b4b2ea798aa2afafd0e&camp=1789&creative=9325) 📚 💰
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/) 📝 🎁
 - [CSS-in-Depth](https://frontendmasters.com/courses/css-in-depth-v2/) 📹 💰
+- [Learn CSS in Deatil](https://www.scaler.com/topics/css/)📝 🎁
 - [W3Schools CSS Guide](https://www.w3schools.com/css/css_intro.asp) 📝 🎁
 - [CSS Tutorial](https://www.csstutorial.net/css-intro/introductioncss-part1.php) 📝 🎁
 - [Learn CSS in 5 minutes](https://medium.freecodecamp.org/get-started-with-css-in-5-minutes-e0804813fc3e) 📝 🎁
