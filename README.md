@@ -38,6 +38,7 @@ Resource types:
 - [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/) 📹🎁
 - [HTML5 Periodic Table](https://websitesetup.org/html5-periodical-table/) 📝🎁
 - [Scaler HTML Reference](https://www.scaler.com/topics/html/) 📝🎁
+- [HTML Features](https://www.interviewbit.com/blog/features-of-html/) 📝🎁
 
 ### CSS
 
@@ -56,6 +57,7 @@ Resource types:
 - [HTMLDog - CSS Beginner](http://www.htmldog.com/guides/css/beginner/) 📝 🎁
 - [Visual guide to the most popular CSS properties](https://hackr.io/tutorial/visual-guide-to-the-most-popular-css-properties) 📝 🎁
 - [FrontEnd Masters Bootcamp](https://frontendmasters.com/bootcamp/) 📹🎁
+- [Types of CSS](https://www.interviewbit.com/blog/types-of-css/) 📝 🎁
 
 ### 🏆 Exercises & Challenges to test out your knowledge on HTML and CSS 🏆
 
@@ -87,6 +89,8 @@ Resource types:
 - [HTMLDog - JavaScript Beginner](http://www.htmldog.com/guides/javascript) 📝 🎁
 - [JavaScript for Beginners - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803) 📹 🎁
 - [Learn JavaScript - The easiest way to learn & pracice modern JavaScript](https://learnjavascript.online/) 🎮 🎁
+- [JavaScript Books](https://www.interviewbit.com/blog/best-javascript-books/) 📝 🎁
+
 
 ### GIT
 
