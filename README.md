@@ -237,6 +237,7 @@ Resource types:
 - [Easybank Landing Page](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)
 - [IP Adress Tracker](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0)
 - [BigFrontEnd](https://bigfrontend.dev/) 🎮 🎁 💰
+- [FrontendAtlas](https://frontendatlas.com/coding) 🎮 🎁 💰
 
 ### Web Animations
 
